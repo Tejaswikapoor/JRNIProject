@@ -19,7 +19,7 @@ namespace CalendarApi.Controllers
         private static readonly string[] Scopes = { CalendarService.Scope.CalendarReadonly };
         private static readonly string ApplicationName = "JRNI APP";
         private static readonly string ClientId = "449374205863-to5bs1kp4mvhckppispeuom2ntu2j3h8.apps.googleusercontent.com";
-        private static readonly string ClientSecret = "SecretCode";// removed for security reason
+        private static readonly string ClientSecret = "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";
 
         public class EventData
         {
